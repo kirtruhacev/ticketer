@@ -1,6 +1,7 @@
 # Ticketer
 
 Gruppeprosjekt i TDT4140. 
+
 Prosjektet gikk ut på å lage fullstack webapplikasjon for salg av billetter.
 Webapplikasjonen er React-TypeScript, Express,Postgres og Prisma.
 
