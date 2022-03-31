@@ -4,7 +4,7 @@ Gruppeprosjekt i TDT4140.
 
 Prosjektet gikk ut på å lage fullstack webapplikasjon for salg av billetter. 
 
-Brukeren har mulighet til å registrere seg, logge inn, endre brukerinformasjon, legge ut billettannonse, slette/ endre den, gjennomføre salg og vurdere andre brukere etter at salget er gjonnmført. I tillegg er det mulig å filtrere annonser etter brukerens behov. Det visuelle grensesnittet er laget stortsett ved bruk av Bootstrap sine containere, knapper, cards osv. 
+Brukeren har mulighet til å registrere seg, logge inn, endre brukerinformasjon, legge ut billettannonse, slette/ endre den, gjennomføre salg og vurdere andre brukere etter at salget er gjonnmført. I tillegg er det mulig å filtrere annonser etter brukerens behov. Det visuelle grensesnittet er laget stortsett ved bruk av Bootstrap(Reactstrap) Framework. 
 
 
 Webapplikasjonen er React-TypeScript, Express,Postgres og Prisma.
